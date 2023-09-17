@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1976_여행가자", "1976_여행가자\1976_여행가자.vcxproj", "{1A7EF76F-AF0C-48D4-A347-F9FAA255A24A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A7EF76F-AF0C-48D4-A347-F9FAA255A24A}.Debug|x64.ActiveCfg = Debug|x64
+		{1A7EF76F-AF0C-48D4-A347-F9FAA255A24A}.Debug|x64.Build.0 = Debug|x64
+		{1A7EF76F-AF0C-48D4-A347-F9FAA255A24A}.Debug|x86.ActiveCfg = Debug|Win32
+		{1A7EF76F-AF0C-48D4-A347-F9FAA255A24A}.Debug|x86.Build.0 = Debug|Win32
+		{1A7EF76F-AF0C-48D4-A347-F9FAA255A24A}.Release|x64.ActiveCfg = Release|x64
+		{1A7EF76F-AF0C-48D4-A347-F9FAA255A24A}.Release|x64.Build.0 = Release|x64
+		{1A7EF76F-AF0C-48D4-A347-F9FAA255A24A}.Release|x86.ActiveCfg = Release|Win32
+		{1A7EF76F-AF0C-48D4-A347-F9FAA255A24A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B60736C-0559-41F2-B5B3-3D4741B44610}
+	EndGlobalSection
+EndGlobal
