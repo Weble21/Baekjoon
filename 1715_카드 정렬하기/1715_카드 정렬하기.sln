@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1715_카드 정렬하기", "1715_카드 정렬하기\1715_카드 정렬하기.vcxproj", "{FAC2B937-E03E-4B29-A3E8-E004AFE3027D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC2B937-E03E-4B29-A3E8-E004AFE3027D}.Debug|x64.ActiveCfg = Debug|x64
+		{FAC2B937-E03E-4B29-A3E8-E004AFE3027D}.Debug|x64.Build.0 = Debug|x64
+		{FAC2B937-E03E-4B29-A3E8-E004AFE3027D}.Debug|x86.ActiveCfg = Debug|Win32
+		{FAC2B937-E03E-4B29-A3E8-E004AFE3027D}.Debug|x86.Build.0 = Debug|Win32
+		{FAC2B937-E03E-4B29-A3E8-E004AFE3027D}.Release|x64.ActiveCfg = Release|x64
+		{FAC2B937-E03E-4B29-A3E8-E004AFE3027D}.Release|x64.Build.0 = Release|x64
+		{FAC2B937-E03E-4B29-A3E8-E004AFE3027D}.Release|x86.ActiveCfg = Release|Win32
+		{FAC2B937-E03E-4B29-A3E8-E004AFE3027D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C123876-6E24-4048-9A9D-4C7D2783A2B8}
+	EndGlobalSection
+EndGlobal
